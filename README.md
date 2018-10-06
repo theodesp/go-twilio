@@ -1,5 +1,5 @@
-# go-twillio
-The UnOfficial Community Driven Golang API Library for Twillio https://www.twilio.com/
+# go-twilio
+The UnOfficial Community Driven Golang API Library for Twilio https://www.twilio.com/
 
 ## Development
 
